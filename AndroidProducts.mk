@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_venus.mk
+    $(LOCAL_DIR)/derp_venus.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_venus-user \
-    lineage_venus-userdebug \
-    lineage_venus-eng
+    derp_venus-user \
+    derp_venus-userdebug \
+    derp_venus-eng
