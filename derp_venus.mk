@@ -27,3 +27,6 @@ PRODUCT_MODEL := M2011K2C
 PRODUCT_MANUFACTURER := Xiaomi
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
+
+# Build fingerprint
+BUILD_FINGERPRINT := "Xiaomi/venus/venus:11/RKQ1.200928.002/V12.5.13.0.RKBCNXM:user/release-keys"
